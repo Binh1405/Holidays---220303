@@ -1,20 +1,3 @@
-# Assignment: Javascript on the web - Fetch APIs
-
-## Introduction
-
-This is an assignment for CoderSchool Fullstack Web Development Bootcamp, code name Virgil
-
-Outcome :
-
-- Able to use JS to access and manipulate dom to create/edit/render elements to the UI
-- Able to read the API documentation and configure appropriate HTTP requests.
-- Able to understand and consume HTTP response's data into the project
-
-## Tutorial
-
-- Holiday API Documentation
-- Exercise walkthrough: "Rendering a list of countries code"
-
 ## Story
 
 As the covid situation is subsiding, more and more countries are open their border for travelers. There is no better time to travel away from work and even home during your holidays.
